@@ -13,4 +13,4 @@ spec:
   selector:
     app: demo-voting-app
     name: voting-app-pod
-  type: NodePort
+  type: LoadBalancer
